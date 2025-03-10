@@ -2,6 +2,8 @@
 
 A Telegram bot designed to help you never forget your important tasks. Let Record Melon be your personal reminder assistant!
 
+You can try https://t.me/RecordMelonBot It's free!!
+
 ## 🌟 Features
 
 - ⏰ Set reminders with specific date and time
